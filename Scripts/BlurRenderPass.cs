@@ -22,7 +22,7 @@ public class BlurRenderPass : ScriptableRenderPass
 
         if (_blurPostProcessSettings != null && _blurPostProcessSettings.IsActive())
         {
-            _material = new Material(Shader.Find("PostProcessing/Blur"));
+            _material = new Material(Shader.Find("PostProcessing/GaussianBlurFullScreen"));
             return true;
         }
 
