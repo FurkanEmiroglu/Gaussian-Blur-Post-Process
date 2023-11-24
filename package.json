@@ -2,7 +2,7 @@
   "author": "Furkan Emiroglu",
   "name": "com.femiroglu.gaussianblurpostprocess",
   "displayName": "Gaussian Blur Post Process Effect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2021.3",
   "description": "Gaussian-Blur-Post Process for Untiy URP. Tested on 2021.3",
   "dependencies": {}
