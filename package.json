@@ -4,6 +4,13 @@
   "displayName": "Gaussian Blur Post Process Effect",
   "version": "1.0.3",
   "unity": "2021.3",
+  "repository": {
+	  "type": "git",
+	  "url": "github:furkanemiroglu/gaussian-blur-post-process"
+  },
+  "documentationUrl": "https://github.com/FurkanEmiroglu/Gaussian-Blur-Post-Process#readme",
+  "changelogUrl": "https://github.com/FurkanEmiroglu/Gaussian-Blur-Post-Process#readme",
+  "licensesUrl": "https://github.com/FurkanEmiroglu/Gaussian-Blur-Post-Process#readme",
   "description": "Gaussian-Blur-Post Process for Untiy URP. Tested on 2021.3",
   "dependencies": {}
 }
