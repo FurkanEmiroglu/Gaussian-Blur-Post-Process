@@ -2,11 +2,11 @@
   "author": "Furkan Emiroglu",
   "name": "com.femiroglu.gaussianblurpostprocess",
   "displayName": "Gaussian Blur Post Process Effect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "unity": "2021.3",
   "repository": {
-	  "type": "git",
-	  "url": "github:furkanemiroglu/gaussian-blur-post-process"
+    "type": "git",
+    "url": "github:furkanemiroglu/gaussian-blur-post-process"
   },
   "documentationUrl": "https://github.com/FurkanEmiroglu/Gaussian-Blur-Post-Process#readme",
   "changelogUrl": "https://github.com/FurkanEmiroglu/Gaussian-Blur-Post-Process#readme",
